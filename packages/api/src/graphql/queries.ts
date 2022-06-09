@@ -9,7 +9,7 @@ const jobsArray = [
     interview: true,
     technicalChallenge: true,
     appliedAt: "2020-01-01",
-    approved: true,
+    state: "Em processo",
     recusedReason: "",
   },
   {
@@ -19,7 +19,7 @@ const jobsArray = [
     interview: true,
     technicalChallenge: true,
     appliedAt: "2020-01-01",
-    approved: true,
+    state: "Em processo",
     recusedReason: "",
   },
   {
@@ -29,7 +29,7 @@ const jobsArray = [
     interview: true,
     technicalChallenge: true,
     appliedAt: "2020-01-01",
-    approved: true,
+    state: "Aprovado",
     recusedReason: "",
   },
 ]

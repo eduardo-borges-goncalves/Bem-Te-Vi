@@ -10,7 +10,7 @@ export const JobType = new GraphQLObjectType({
     interview: { type: GraphQLBoolean },
     technicalChallenge: { type: GraphQLBoolean },
     appliedAt: { type: GraphQLString },
-    approved: { type: GraphQLBoolean },
+    state: { type: GraphQLString },
     recusedReason: { type: GraphQLString },
   }),
 });
