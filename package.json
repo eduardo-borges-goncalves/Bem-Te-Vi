@@ -22,6 +22,8 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.30.0",
     "eslint-plugin-react-hooks": "^4.5.0",
+    "koa-graphql": "^0.12.0",
+    "koa-mount": "^4.0.0",
     "lerna": "^5.1.0",
     "prettier": "^2.6.2",
     "ts-node": "^10.8.1",
